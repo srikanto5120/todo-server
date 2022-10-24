@@ -132,5 +132,28 @@
       "id": 5,
       "color": "red"
     }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "link": "https://i.ibb.co/tcvN3Gq/todo-application-rtk-Edited.png",
+      "link2": "https://lwsassignment-8.netlify.app/"
+    },
+    {
+      "id": 2,
+
+      "link": "https://i.ibb.co/XYqKG64/video-gallery-toolkit.webp",
+      "link2": "https://lws-assignment-6.netlify.app/"
+    },
+    {
+      "id": 3,
+      "link": "https://i.ibb.co/t8WxLsG/project-manager.webp",
+      "link2": "https://lws-final-tsk.netlify.app/"
+    },
+    {
+      "id": 4,
+      "link": "https://i.ibb.co/Lz3MbKJ/chat-application.webp",
+      "link2": "https://lws-assignment-9.netlify.app/"
+    }
   ]
 }
