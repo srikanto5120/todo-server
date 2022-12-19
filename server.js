@@ -7,8 +7,8 @@ const cors= require("cors")
 
 // Bind the router db to the app
 server.db = router.db;
-server.use(cors())
 server.use(middlewares);
+server.use(cors())
 server.use(router);
 
 server.listen(port);
