@@ -10,7 +10,7 @@ server.db = router.db;
 server.use(middlewares);
 server.use(
   cors({
-    origin: "https://srikanto.netlify.app",
+    origin: "*",
 
     methods: ["GET", "POST", "DELETE"],
   })
